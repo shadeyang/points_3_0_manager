@@ -9,10 +9,13 @@
 
 感谢RouYi提供的快速开发后台，站在巨人的肩上才得以看得更远。
 
-因本项目为points_3_0配套管理后台demo样例，为快速实现依托了RouYi的框架，主体依赖版本为
+因本项目为points_3_0配套管理后台demo样例，为快速实现依托了RouYi的框架， 并针对集成points相关代码，做了一些必要性修改。
+
+## 主要依赖
+
 <a href="https://github.com/yangzongzhuan/RuoYi"><img src="https://img.shields.io/badge/RuoYi-v4.6.0-brightgreen.svg"></a>
 <a href="https://github.com/yangzongzhuan/RuoYi-Vue3"><img src="https://img.shields.io/badge/RuoYi_Vue3-v3.8.1-brightgreen.svg"></a>
-并针对集成points<a href="https://github.com/yangzongzhuan/RuoYi-Vue3"><img src="https://img.shields.io/badge/Points-v3.0.0_SNAPSHOT-brightgreen.svg"></a>相关代码，做了一些必要性修改。
+<a href="https://github.com/shadeyang/points_3_0"><img src="https://img.shields.io/badge/Points-v3.0.0_SNAPSHOT-brightgreen.svg"></a>
 
 ## 相关功能
 
@@ -24,6 +27,6 @@
 6. 账户管理：管理客户的积分账户
 7. 商户管理：管理积分消费的收单商户
 
-## 交流
+## 欢迎交流
 
 若大家有更好的建议与想法，欢迎与我联系：<img src="https://img.shields.io/badge/EMail-shade.yang@aliyun.com-blue.svg">
