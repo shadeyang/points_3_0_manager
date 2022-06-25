@@ -29,4 +29,4 @@
 
 ## 欢迎交流
 
-若大家有更好的建议与想法，欢迎与我联系：<img src="https://img.shields.io/badge/EMail-shade.yang@aliyun.com-blue.svg">
+若大家有更好的建议与想法，欢迎与我联系：<img src="https://img.shields.io/badge/EMail-shade.yang@wt2024.com-blue.svg">
