@@ -1,0 +1,5 @@
+#############################################
+# POINTS MANAGER
+# Application Version: ${ruoyi.version}
+# Spring Boot Version: ${spring-boot.version}
+#############################################
